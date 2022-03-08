@@ -1,0 +1,25 @@
+_repo: Two-in-Arcadia_67509
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finch, Lucine
+    gutenberg_agent_id: '54300'
+    url: http://www.gutenberg.org/2009/agents/54300
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67509'
+language: en
+pgterms:marc905: 20220109171927finch
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United States :Brentanos,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Two in Arcadia
+url: http://www.gutenberg.org/ebooks/67509
