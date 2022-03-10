@@ -1,11 +1,16 @@
 _repo: Two-in-Arcadia_67509
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67509-h/images/cover.jpg
 creator:
   author:
     agent_name: Finch, Lucine
     gutenberg_agent_id: '54300'
     url: http://www.gutenberg.org/2009/agents/54300
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67509#Two-in-Arcadia
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67509'
